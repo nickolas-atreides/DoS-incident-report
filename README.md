@@ -1,7 +1,9 @@
 # DoS-incident-report
 
-# Scenario
-# AAA (from Google Cybersecurity Professional Certificate) [link](https://www.coursera.org/professional-certificates/google-cybersecurity)
+
+### (from Google Cybersecurity Professional Certificate) [link](https://www.coursera.org/professional-certificates/google-cybersecurity)
+
+## Scenario
 
 You work as a security analyst for a travel agency that advertises sales and promotions on the company’s website. The employees of the company regularly access the company’s sales webpage to search for vacation packages their customers might like. 
 
